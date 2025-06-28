@@ -1,4 +1,4 @@
-# ParkVision: Real-Time Parking Slot Detection and Occupancy Simulation Using Computer Vision
+# Real-Time Vehicle Occupancy Monitoring in Parking Lots Using OpenCV and Streamlit
 
 ---
 
