@@ -51,8 +51,8 @@ This project was developed as part of the **Advanced Modeling and Simulation** c
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/parkvision.git](https://github.com/Md-Adnan-Abir/Real-Time_Parking_Slot_Detection_and_Occupancy_Simulation
-cd Real-Time_Parking_Slot_Detection_and_Occupancy_Simulation
+git clone https://github.com/Md-Adnan-Abir/Real-Time_Vehicle_Occupancy_Monitoring
+cd Real-Time_Vehicle_Occupancy_Monitoring
 ```
 
 Install dependencies:
