@@ -98,7 +98,7 @@ streamlit run main.py
 ---
 
 
-## 🌱 Future Enhancements
+##  Future Enhancements
 
 - YOLO-based slot and vehicle detection
 - Night-time image processing improvements
@@ -106,7 +106,7 @@ streamlit run main.py
 
 ---
 
-## 📄 License
+##  License
 
 This project is for educational purposes. You may adapt and share under the MIT License.
 
