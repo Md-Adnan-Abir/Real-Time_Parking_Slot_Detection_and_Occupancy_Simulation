@@ -69,7 +69,7 @@ pip install opencv-python streamlit numpy
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 ### 1️. Define Parking Slots
 
